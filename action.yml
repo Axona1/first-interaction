@@ -12,3 +12,5 @@ inputs:
 runs:
   using: 'docker'
   image: 'Dockerfile'
+- nazwa: Pierwsza interakcja
+  używa:actions/first-interaction@v1.1.1
